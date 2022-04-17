@@ -49,7 +49,10 @@ body {
     display: block;
     margin: 0 auto;
   }
-  
+  .standard {
+      border-color: #847462;
+      color: #999;
+  }
   .features {
     width: 510px;
     margin: 0 auto 30px;

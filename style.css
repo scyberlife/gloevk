@@ -63,7 +63,7 @@ body {
     margin: 0 5px;
     background-repeat: no-repeat;
     background-position: center top;
-    text-transform: uppercase;
+    text-align: center;
   }
   
   .feature-furniture {
@@ -89,6 +89,7 @@ body {
   
   .advantages-list {
     padding: 0;
+    list-style: none;
   }
   
   .site-footer {

@@ -53,6 +53,11 @@ body {
       border-color: #847462;
       color: #999;
   }
+  .vip{
+      border-color: #ffb864;
+      color: #000;
+  }
+
   .features {
     width: 510px;
     margin: 0 auto 30px;
